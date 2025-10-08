@@ -12,7 +12,12 @@ Driven by curiosity and creativity, I love building impactful projects and const
 
 ### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+### ⚙️ Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
