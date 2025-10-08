@@ -1,5 +1,5 @@
-## Hi there 👋
-# 👋 Hi, I'm Shruti Sharma
+
+## 👋 Hi, I'm Shruti Sharma
 
 🎯 **AI/ML Learner | Code-Build-Learn**
 
