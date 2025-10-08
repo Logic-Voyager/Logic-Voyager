@@ -50,7 +50,7 @@ Driven by curiosity and creativity, I love building impactful projects and const
 ## 🌍 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://discord.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
   <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
