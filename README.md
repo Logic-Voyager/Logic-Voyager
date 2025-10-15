@@ -14,6 +14,7 @@ Driven by curiosity and creativity, I love building impactful projects and const
 <p
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss" />
 </p>
