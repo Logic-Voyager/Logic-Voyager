@@ -10,22 +10,18 @@ Driven by curiosity and creativity, I love building impactful projects and const
 
 ## Skills & Tools
 
-### Programming
+### Programming ### Web Dev ### Frameworks & Libraries ### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
-
-### Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss" />
 </p>
 
-### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=flask,react,nodejs,express" />
 </p>
 
-### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
