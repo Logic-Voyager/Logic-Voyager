@@ -10,8 +10,8 @@ Driven by curiosity and creativity, I love building impactful projects and const
 
 ## Skills & Tools
 
-### Programming ### Web Dev ### Frameworks & Libraries ### Databases & Tools
-<p>
+### Programming; Web Dev; Frameworks & Libraries; Databases & Tools
+<p
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 <p>
