@@ -12,11 +12,7 @@ Driven by curiosity and creativity, I love building impactful projects and const
 
 ### Programming; Web Dev; Frameworks & Libraries; Databases & Tools
 <p
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,tailwindcss" />
 </p>
 
 <p>
