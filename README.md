@@ -27,7 +27,7 @@ Driven by curiosity and creativity, I love building impactful projects and const
 
 ## 🧩 Projects
 - 🕵️‍♂️ **Crime Records Management System** — Flask + SQLAlchemy + Flask-Login  
-- 🌱 **LearnHub** — Full-stack learning platform with Node.js, React, MongoDB  
+- 🌱 **Bal Seva Sansthan** — Full-stack ngo platform with Node.js, React 
 - 🤖 **AI Mental Health Companion** — Emotion detection using AI-driven insights  
 - 🌌 **Physics & Space Research Projects** — Exploring real-world phenomena
 
