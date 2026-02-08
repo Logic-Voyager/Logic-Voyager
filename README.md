@@ -26,18 +26,19 @@ Driven by curiosity and creativity, I love building impactful projects and const
 
 ---
 
-## 🧩 Projects
-- 🕵️‍♂️ **Crime Records Management System** — Flask + SQLAlchemy + Flask-Login  
-- 🌱 **Bal Seva Sansthan** — Full-stack ngo platform with Node.js, React 
-- 🤖 **AI Mental Health Companion** — Emotion detection using AI-driven insights  
-- 🌌 **Physics & Space Research Projects** — Exploring real-world phenomena
+##  Projects
+-  **Crime Records Management System** — Flask + SQLAlchemy + Flask-Login  
+-  **Bal Seva Sansthan** — Full-stack NGO website with Node.js, React 
+-  **AI Mental Health Companion** — Emotion detection using AI-driven insights  
+-  **Physics & Space Research Projects** — Exploring real-world phenomena
 
 ---
 
-## 🌱 Currently Learning
-- React.js & Tailwind CSS  
-- Reinforcement Learning & AI frameworks  
-- Advanced Data Analysis using Pandas & NumPy  
+## Currently 
+- Solving DSA Problems
+- Learning ML & AI frameworks  
+- Advanced Data Analysis using Pandas & NumPy
+- Prediction Models using Streamlit and FastAPI
 
 ---
 
