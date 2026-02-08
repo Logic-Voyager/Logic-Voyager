@@ -13,7 +13,7 @@ Driven by curiosity and creativity, I love building impactful projects and const
 ### Languages, Frameworks & Developer Tools
 <p>
   
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,mysql,js,mongodb,html,css" /></a>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,mongodb,html,css" />
 </p>
 
 <p>
