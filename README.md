@@ -3,8 +3,7 @@
 
 🎯 **AI/ML Learner | Code-Build-Learn**
 
-I’m passionate about exploring how **technology, AI, and physics** connect to shape the real world.  
-Driven by curiosity and creativity, I love building impactful projects and constantly learning something new.
+Undergraduate developer exploring software engineering, machine learning, and product development through hands-on projects. Experienced with MERN, FastAPI, Flask, MySQL, Python, and modern web technologies, with a strong interest in building practical and scalable systems. Currently sharpening problem-solving skills through DSA and competitive programming while working on ML projects and independent product ideas. Driven by curiosity, consistency, and the process of learning by building.
 
 ---
 
