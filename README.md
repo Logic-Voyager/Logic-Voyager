@@ -24,13 +24,14 @@ I am an Undergraduate Developer who believes in Code, Build & Learn. Exploring s
 ## Interests
   1. Collaborating with people to build Impactful Solutions on Open Source Platforms
   2. Cinematography on Science and Facts
+  3. Space systems, computational physics, and AI-driven problem solving
 ---
 
 ## Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://discord.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="mailto:.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
 ---
