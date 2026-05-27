@@ -9,7 +9,7 @@ I am an Undergraduate Developer who believes in Code, Build & Learn. Exploring s
 
 ### Languages, Frameworks & Developer Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,mongodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,js,mongodb,html,css" />
 </p>
 
 <p>
