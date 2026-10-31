@@ -1,8 +1,7 @@
 
 ## 👋 Hi, I'm Logic-Voyager
 
-I am an Undergraduate Developer who believes in following this Mantra - Code, Build & Learn. Exploring software engineering, machine learning, and product development through hands-on projects. Experienced with MERN, FastAPI, Flask, MySQL, Python, Streamlit and modern web technologies, with a strong interest in building practical and scalable systems. Currently sharpening problem-solving skills through DSA and competitive programming while working on ML projects and independent product ideas. Driven by curiosity and consistency.
-
+I am an Undergraduate Developer who believes in following this Mantra - Code, Build & Learn. Exploring software engineering, machine learning, and product development through hands-on projects. Experienced with Python, C++, RDBMS and document oriented DBMS, FastAPI, Streamlit, MERN, FLASK and modern web technologies, with a strong interest in building practical and scalable systems and products. Currently building my own ML and astronomy projects and ideation, sharpening problem-solving and competitive programming skills.
 ---
 
 ## Skills & Tools
@@ -31,7 +30,7 @@ I am an Undergraduate Developer who believes in following this Mantra - Code, Bu
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://discord.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="mailto:.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="mailto:shrutisharma.m31@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
 ---
