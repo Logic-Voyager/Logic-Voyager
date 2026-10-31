@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Logic-Voyager
 
-<p>
-I am an undergraduate developer who believes in the mantra — **Code, Build & Learn.** Exploring software engineering, machine learning, and product development through hands-on projects. Familiar with Python, C++, Java, relational and document-oriented databases, FastAPI, Streamlit, MERN, Flask, and modern web technologies, with a strong interest in building practical and scalable systems and products. Currently working on personal ML and astronomy projects, exploring new ideas, and sharpening my problem-solving and competitive programming skills.
+I am an undergraduate developer who believes in the mantra — **Code, Build & Learn.** I enjoy exploring software engineering, machine learning, and product development through hands-on projects. I have worked with Python, C++, relational and document-oriented databases, FastAPI, Streamlit, MERN, Flask, and modern web technologies, with a strong interest in building practical and scalable systems and products. Currently working on personal ML and astronomy projects, exploring new ideas, and sharpening my problem-solving and competitive programming skills.
 </p>
 
 ---
