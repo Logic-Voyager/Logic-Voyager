@@ -1,37 +1,45 @@
-
 ## 👋 Hi, I'm Logic-Voyager
-<p>
-I am an Undergraduate developer who believes in following this Mantra - Code, Build & Learn. Exploring software engineering, machine learning, and product development through hands-on projects. Experienced with Python, C++, RDBMS and document oriented DBMS, FastAPI, Streamlit, MERN, FLASK and modern web technologies, with a strong interest in building practical and scalable systems and products. Currently building my own ML and astronomy projects and ideation, sharpening problem-solving and competitive programming skills.
-</p>
----
-
-## Skills & Tools
-
-### Languages, Frameworks & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,js,mongodb,html,css" />
-</p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss,fastapi,django,flask" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,googlecloud" />
+I am an undergraduate developer who believes in the mantra — **Code, Build & Learn.** Exploring software engineering, machine learning, and product development through hands-on projects. Familiar with Python, C++, Java, relational and document-oriented databases, FastAPI, Streamlit, MERN, Flask, and modern web technologies, with a strong interest in building practical and scalable systems and products. Currently working on personal ML and astronomy projects, exploring new ideas, and sharpening my problem-solving and competitive programming skills.
 </p>
 
 ---
-## Interests
-  1. Collaborating with people to build Impactful Solutions on Open Source Platforms
-  2. Cinematography on Science and Facts
-  3. Space systems, computational physics, and AI-driven problem solving
+
+## 🛠️ Skills & Tools
+
+### Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,mysql,mongodb" />
+</p>
+
+### Frameworks & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,fastapi,django,flask" />
+</p>
+
+### Developer Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,gcp" />
+</p>
+
 ---
 
-## Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://discord.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="mailto:shrutisharma.m31@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+## 🌌 Interests
+
+- Open-source collaboration and building impactful solutions.
+- Science communication, cinematography, and documentaries.
+- Space systems, astronomy, and computational physics.
+- Machine learning and AI-driven problem solving.
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
